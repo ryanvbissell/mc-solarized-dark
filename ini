@@ -78,7 +78,7 @@ editor_backup_extension=~
 mcview_eof=
 ignore_ftp_chattr_errors=true
 keymap=mc.keymap
-skin=~/.config/mc/solarized-dark.ini
+skin=/home/ryan/.config/mc/solarized-dark.ini
 
 [Layout]
 equal_split=1
